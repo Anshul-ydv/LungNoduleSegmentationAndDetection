@@ -1,0 +1,27 @@
+# Core Libraries
+numpy==1.24.4
+pandas==1.5.3
+scipy==1.10.1
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Image Processing
+opencv-python==4.7.0.72
+scikit-image==0.19.3
+
+# Machine Learning
+scikit-learn==1.2.2
+tqdm==4.65.0
+
+# Deep Learning
+tensorflow==2.11.0
+keras==2.11.0
+
+# Medical Imaging
+pydicom==2.3.1
+nibabel==5.1.0
+
+# Jupyter Notebook (Optional, for development) (Mainly used colab)
+notebook==6.5.4
