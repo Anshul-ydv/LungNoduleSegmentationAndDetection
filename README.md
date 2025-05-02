@@ -16,3 +16,7 @@ We use the publicly available **LUNA16 (LUng Nodule Analysis 2016)** dataset:
 
 Please download both parts and extract them before running the preprocessing and training notebooks.
 
+#### How to proceed
+
+I am using both Vscode and Google colab(Just for TPU).
+
