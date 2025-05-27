@@ -81,8 +81,8 @@ graph TD;
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/lung-nodule-detection.git
-cd lung-nodule-detection
+git clone https://github.com/Anshul-ydv/LungNoduleSegmentationAndDetection.git
+cd LungNoduleSegmentationAndDetection
 pip install -r requirements.txt
 ```
 
