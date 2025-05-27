@@ -130,8 +130,3 @@ For issues, suggestions, or collaboration, feel free to open an issue or contact
 Or email - anshulyadav802@gmail.com
 
 ---
-
-```
-
-Let me know if you'd like this bundled into a downloadable `README.md` file or customized for any publication platform.
-```
