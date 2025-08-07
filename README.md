@@ -6,7 +6,7 @@
 
 ---
 
-## � Project Overview
+##  Project Overview
 
 This project focuses on the automated detection of pulmonary nodules in CT scans using the LUNA16 dataset. We employ:
 
