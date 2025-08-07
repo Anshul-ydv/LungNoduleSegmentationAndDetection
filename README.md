@@ -1,4 +1,4 @@
-# 🫁 Lung Nodule Segmentation and Detection
+#  Lung Nodule Segmentation and Detection
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow%2FPyTorch-orange)
@@ -6,18 +6,18 @@
 
 ---
 
-## 📌 Project Overview
+## � Project Overview
 
 This project focuses on the automated detection of pulmonary nodules in CT scans using the LUNA16 dataset. We employ:
 
-- 🧬 **U-Net** for precise segmentation of lung nodules.
-- 🧠 **Convolutional Neural Networks (CNNs)** for classification and false positive reduction.
+-  **U-Net** for precise segmentation of lung nodules.
+-  **Convolutional Neural Networks (CNNs)** for classification and false positive reduction.
 
 The goal is to build an **end-to-end pipeline** that accurately segments nodules and classifies candidates to aid in early lung cancer detection.
 
 ---
 
-## 📦 Dataset
+##  Dataset
 
 We use the publicly available **LUNA16 (LUng Nodule Analysis 2016)** dataset:
 
@@ -28,16 +28,16 @@ We use the publicly available **LUNA16 (LUng Nodule Analysis 2016)** dataset:
 
 ---
 
-## 💻 How to Proceed
+##  How to Proceed
 
-- ✅ You can use **VS Code** for local development and training.
-- ⚡ For faster training, **Google Colab with TPU** is used for U-Net segmentation.
+-  You can use **VS Code** for local development and training.
+-  For faster training, **Google Colab with TPU** is used for U-Net segmentation.
 
 ---
 
-## 🧠 Architecture Overview
+## � Architecture Overview
 
-### 🔹 Pipeline Diagram
+###  Pipeline Diagram
 
 ```mermaid
 graph TD;
@@ -53,7 +53,7 @@ graph TD;
 
 ---
 
-## 📂 Notebooks Breakdown
+##  Notebooks Breakdown
 
 | Step | Notebook                     | Description                     |
 | ---- | ---------------------------- | ------------------------------- |
@@ -71,14 +71,14 @@ graph TD;
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 * **Segmentation**: Dice Score, Intersection-over-Union (IoU)
 * **Classification (FPR)**: Accuracy, Precision, Recall, F1-score, Confusion Matrix
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/Anshul-ydv/LungNoduleSegmentationAndDetection.git
@@ -88,7 +88,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 > Follow the notebooks in sequence:
 
@@ -100,7 +100,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📈 Results Summary
+##  Results Summary
 
 | Metric | U-Net Dice Score | CNN Accuracy (FPR) |
 | ------ | ---------------- | ------------------ |
@@ -108,7 +108,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧾 Citation
+##  Citation
 
 If you use this repository for your research or project, please cite:
 
@@ -124,7 +124,7 @@ If you use this repository for your research or project, please cite:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For issues, suggestions, or collaboration, feel free to open an issue or contact via GitHub.
 Or email - anshulyadav802@gmail.com
